@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <color name = "colorPrimary" >#A2C848</color >
+    <color name = "colorPrimaryDark" >#A2C848</color >
+    <color name = "colorAccent" >#FF5320</color >
+    <color name = "colorWhite" >#ebecec</color >
+    <color name = "zero_opacity" >#00000000</color >
+    <color name = "blue_gradient" >#aa3b4a67</color >
+</resources >

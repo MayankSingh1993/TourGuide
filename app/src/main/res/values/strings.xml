@@ -1,0 +1,96 @@
+<resources >
+    <string name = "app_name" >Kota Tour Guide</string >
+
+    <string-array name = "tab_titles_array" >
+        <item >Attractions</item >
+        <item >Festivals</item >
+        <item >Restaurants</item >
+        <item >Hotels</item >
+    </string-array >
+
+    <string-array name = "title_attractions_array" >
+        <item >GARH PALACE</item >
+        <item >MAHARAO MADHO SINGH MUSEUM</item >
+        <item >ABHEDA MAHAL</item >
+        <item >DAD DEVI TEMPLE</item >
+        <item >JAGMANDIR PALACE</item >
+        <item >KOTA BARRAGE</item >
+        <item >CHAMBAL GARDEN</item >
+        <item >SEVEN WONDER PARK</item >
+        <item >GODAWARI DHAM</item >
+        <item >ALNIA DAM</item >
+        <item >MUKUNDARA TIGER RESERVE</item >
+        <item >GARADIA MAHADEV TEMPLE</item >
+        <item >KANSUA TEMPLE</item >
+        <item >GAIPARNATH TEMPLE</item >
+    </string-array >
+
+    <string-array name = "description_attractions_array" >
+        <item >The foremost tourist attraction in Kota is the Garh. This large complex, also known as the City Palace, is built in a predominantly Rajput style of architecture. The palace is a sprawling complex of suites and apartments built by different rulers of the Rajput dynasty at different times in history.</item >
+        <item >Situated within the walls of the Garh palace, Maharao Madho Singh Museum houses a splendid collection of Rajput miniature paintings of the Kota school. Visitors can spend hours taking in the fascinating sculptures, arms and other valuable antiques.</item >
+        <item >Located 8 kilometres away from Kota, on the banks of a tank, this medieval palace was the recreation spot of the rulers of Kota. It is where they went to enjoy the wildlife and natural beauty of the region. Close to Abheda Mahal is the temple of Karni Mata, the reigning deity of Kota.</item >
+        <item >Situated about 18 kilometres from Kota, the temple of the deity of the royal household of Kota is surrounded by thick forests and is an ideal place to spend some time in quiet contemplation. This temple is dedicated to Shri Dad Devi Mata Ji, an incarnation of Goddess Durga.</item >
+        <item >The Jagmandir Palace was built by one of the queens of Kota between 1743 and 1745, and is situated in the middle of the Kishore Sagar Lake. Built in red sandstone, it is a monument of exquisite beauty. The palace is open to tourists who can enjoy boat rides in the Kishore Sagar Lake and the panoramic view of the palace from the lake. The Keshar Bagh, situated near the Jagmandir Palace is well known for its royal cenotaphs.</item >
+        <item >Kota Barrage is one of the most important water reservoirs in the Rajasthan state constructed over Chambal River. The Kota Barrage spreads over an area of 27,332 square kilometres, which makes it as large as Haiti! The mesmerizing view of water flowing through the gates with a great force makes it a popular tourist attraction. The Kansua temple of Lord Shiva, housing a rare four-faced Shiva lingam is a place of interest near the barrage.</item >
+        <item >Located on the bank of river Chambal, this place is one of the most beautiful picnic spots in the city of Kota. At Chambal Garden, visitors can enjoy peace in the lap of exquisite greenery. The major attraction here is the wonderful boat ride that you can take on the Chambal river. Considered to be a once-in-a-lifetime experience, the river itself is a part of the National Chambal Ghariyal (Gavial) Sanctuary. The sanctuary was established in 1983 with the express purpose of conserving the fast depleting population of marsh crocodiles and ghariyals, which are a type of thin-snouted crocodile. It is also famous for its diverse bird population and scenic natural beauty.</item >
+        <item >The Seven Wonder Park is a Rs. 20 crores worth project developed along the Kishore Sagar Lake at Vallabh Bari in Kota. A single visit to this park allows visitors to get a glimpse of the replicas of all the Seven Wonders of the World.</item >
+        <item >Godawari Dham is a Hanuman temple situated at walking distance from Chambal Garden. This temple is located beside the Chambal River. It is a beautiful shrine, made entirely of white marble. The towers of the temple are quite high and impressive. It has a huge marble swan built at the top of the entrance gate.</item >
+        <item >The Alnia Dam is one of the must-see attractions of Kota. It is renowned for the beautiful rock paintings that date back to the Upper Paleolithic age. Still in good condition, they adorn the bank of the river, making this place definitely worth a visit.</item >
+        <item >The Mukundara Tiger Reserve is 50 kilometres from Kota. Tigers are often relocated here from Ranthambore Reserve. It has a core area of 417 square kilometres and a buffer zone covering 342.82 square kilometres. Other wildlife includes panther, deer, wild boar and bear. This thickly wooded area is home to a large variety of birds as well.</item >
+        <item >One can get a grand view of River Chambal from the Garadia Mahadev Temple. Situated on Dabi Road (NH 76), this temple provides an incredible view of the surrounding wilderness. It is a must visit, especially during monsoon.</item >
+        <item >This is one of the oldest and most beautiful temples in Kota and is dedicated to Lord Shiva. The temple has a small pond within its premises. There is a stone inscription here dating back to 738 AD that says that it was built by Raja Shivgana Maurya but local legend has it that the temple was built by the Pandavas during their exile.</item >
+        <item >Gaipar Nath is a lovely big chasm with an old Shiva temple set in a deep gorge with a spectacular view of the ruggedly beautiful forests and cliffs of the Chambal valley. The pleasant sound of gushing water from the Gaiparnath waterfall near the temple, set against a picturesque canvas of a green landscape make it an idyllic and beautiful spot to visit.</item >
+    </string-array >
+
+    <string-array name = "title_festivals_array" >
+        <item >DUSSEHRA</item >
+        <item >ADVENTURE FESTIVAL</item >
+    </string-array >
+
+    <string-array name = "description_festivals_array" >
+        <item >Dussehra is a Hindu festival celebrated all over the country. As the name suggests, it is the ‘Tenth Day’ of the fierce battle fought; when Lord Rama killed King Ravana. This holy day marks the victory of good over evil. The Dussehra Festival of Kota is quite a unique experience for both, the residents and tourists. Villagers dress themselves in colourful traditional wear and join long processions to offer their prayers to Lord Rama. Cultural programmes are organised and include scintillating performances by well-known artists. However, the highlight of the festivities is the theatrical representation of the encounter popularly known as ‘Ramleela’. The drama is so highly anticipated among the locals that spectators start chanting the name of Lord Rama during the show. The climax of the show holds most appeal as it ends with setting alight gigantic effigies of the 10-headed Ravana along with his brother Kumbhkarana and his son Meghnath. These 75-feet tall statues are stuffed with crackers and once set on fire, they burst to create an extravagant show.</item >
+        <item >The Kota Adventure Festival is held every year during Dusserha (October). Originally started off to boost tourism, this festival is a paradise for adventure-sports lovers. Tourists from across the world can witness various events such parasailing, rafting, wind surfing, water skiing and kayaking. Apart from these activities, visitors can also indulge in rock climbing, gliding, trekking, angling and rural excursions. The panoramic and stunning view of the Chambal River adds to the beauty and excitement of the Adventure Festival.</item >
+    </string-array >
+
+    <string-array name = "title_restaurants_array" >
+        <item >Amar Punjabi</item >
+        <item >Soul at Hotel Lilac</item >
+        <item >Maheshwari Restaurant</item >
+        <item >Jodhpur Restaurant</item >
+        <item >TRP (The Right Place) Cafe</item >
+        <item >Bobs Delicious Burgers</item >
+        <item >Royal Firdous Non Veg Restaurant</item >
+        <item >Hangout Cafe and Restro</item >
+    </string-array >
+
+    <string-array name = "description_restaurants_array" >
+        <item >One of the most loved places in Kota by the students as well as the localites. Authentic vegetarian punjabi food which does not get heavy on your pocket and will definitely calm your taste buds. </item >
+        <item >Soul at hotel lilac is one of the best restaurant in kota. Best ambience, with good atmosphere, good staff and good food all these at good price</item >
+        <item >Really good taste specially veg food is very tasty. Paneer dishes are so special and behavior of staff is nice.</item >
+        <item >Specialise in pyaaz ki kachauri and daal kachauri. Samosas and paneer pakodas are other items that it is famous for along with varieties of namkeen/savouries. Economical and convenient.</item >
+        <item >This is one of the best places in the city to get the picturesque view of the seven wonders park.
+            You will have many beautiful photographs once you visit this place.
+            The ambience is perfectly youth cultured.
+            Its a perfect hangout place for friend groups.
+            You can enjoy games and other activities like reading books with a cup of tea.</item >
+        <item >Bobs burgers is one of the best things to try and taste in kota. the burgers are very tasty. specially aloo tikki cheese burger. must a visit and grab a bite with a coke. the service is very nice. appreciated.</item >
+        <item >Finding non vegetarian food in Kota is such a challenge and this place solves that issue. Food is great. Chicken items are available. Cuisine is north indian .</item >
+        <item >The setup and air is amazing with the polite staffs and tasty authentic food items that makes every hungry mouth watery.</item >
+    </string-array >
+
+    <string-array name = "title_hotels_array" >
+        <item >Welcome Heritage Umed Bhawan Palace</item >
+        <item >Hotel Lilac</item >
+        <item >Hotel The Grand Chandiram</item >
+        <item >Sukhdham Kothi</item >
+        <item >Hotel Rallentino</item >
+    </string-array >
+
+    <string-array name = "description_hotels_array" >
+        <item >Elegant quarters in a former royal palace with international dining, a bar and sports courts.</item >
+        <item >Refined hotel offering complimentary breakfast and Wi-Fi, plus international dining.</item >
+        <item >Unassuming rooms and suites in a straightforward hotel offering a casual vegetarian restaurant.</item >
+        <item >Warm rooms in a heritage hotel offering a restaurant and an outdoor pool, plus terraces and gardens.</item >
+        <item >Relaxed rooms and suites in an understated hotel offering an informal restaurant and an outdoor pool.</item >
+    </string-array >
+</resources >
